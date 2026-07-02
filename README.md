@@ -1,7 +1,7 @@
 # Ody
 
-내가 쓰는 모든 AI 코딩 도구, 한 곳에서 보고 관리해요.
-A local control plane for your AI coding tools — Claude Code, Codex, Gemini, Antigravity.
+- 내가 쓰는 모든 AI 코딩 도구, 한 곳에서 보고 관리해요.
+- A local control plane for your AI coding tools — Claude Code, Codex, Gemini, Antigravity.
 
 - **웹사이트 · Website**: https://ody.giml.kr
 - **다운로드 · Download**: [Latest release](https://github.com/Mobig9/ody-releases/releases/latest)
