@@ -9,7 +9,8 @@ A local control plane for your AI coding tools — Claude Code, Codex, Gemini, A
 
 ## 이 저장소는요 · About this repo
 
-Ody 앱의 릴리스와 피드백을 위한 공간이에요. 앱 소스 코드는 비공개로 관리돼요.
+Ody 앱의 릴리스와 피드백을 위한 공간이에요. 
+앱 소스 코드는 비공개로 관리돼요.
 This repository hosts releases, release notes and the issue tracker for the Ody desktop app.
 The app itself is closed-source.
 
