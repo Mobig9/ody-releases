@@ -20,7 +20,7 @@ A local control plane for your AI coding tools.
 
 **[macOS용 다운로드 (Apple Silicon)](https://github.com/Mobig9/ody-releases/releases/latest/download/Ody_aarch64.dmg)**
 
-내려받아서 열면 끝. 가입 없이 무료로 시작한다.<br>
+내려받아서 열면 끝. 가입 없이 무료로 시작해보세요.<br>
 Download, open, done. Start free, no sign-up.
 
 - 전체 버전 목록 · All versions: [Releases](https://github.com/Mobig9/ody-releases/releases)
@@ -28,17 +28,17 @@ Download, open, done. Start free, no sign-up.
 
 ## Ody란 · What is Ody
 
-Claude Code, Codex, Gemini, Antigravity. 도구가 늘어날수록 사용량과 설정이 흩어진다.
-Ody는 이를 한 화면에 모은다.
+Claude Code, Codex, Gemini, Antigravity. 도구가 늘어날수록 사용량과 설정이 흩어져요.
+Ody는 이를 한 화면에 모아줍니다.
 
 | 기능 | 설명 |
 |---|---|
-| **사용량 한눈에** | 도구마다 따로 확인하던 사용량을 한 화면에서 확인한다. |
-| **한도 소진 예측** | 지금 속도라면 언제 한도가 소진되는지 미리 예측한다. |
-| **설정 한곳에** | 흩어진 설정 파일을 한 트리에서 편집한다. 변경 내역은 되돌릴 수 있다. |
-| **벤더 중립** | 특정 회사에 치우치지 않고 전부 보여준다. |
-| **로컬 퍼스트** | 모든 데이터는 내 컴퓨터에만 저장된다. 클라우드로 전송되지 않는다. |
-| **트레이 상주** | 평소에는 트레이에 조용히 상주한다. 필요할 때만 열어보면 된다. |
+| **사용량 한눈에** | 도구마다 따로 확인하던 사용량을 한 화면에서 확인할 수 있어요. |
+| **한도 소진 예측** | 지금 속도라면 언제 한도가 소진되는지 미리 예측할 수 있어요. |
+| **설정 한곳에** | 흩어진 설정 파일을 한 트리에서 편집할 수 있어요. 변경 내역은 되돌릴 수 있어요. |
+| **벤더 중립** | 특정 회사에 치우치지 않고 전부 보여줘요. |
+| **로컬 퍼스트** | 모든 데이터는 내 컴퓨터에만 저장돼요. 클라우드로 전송되지 않아요. |
+| **트레이 상주** | 평소에는 트레이에 조용히. 필요할 때만 열어보세요. |
 
 Ody shows usage across every AI coding tool on one screen and forecasts when a limit
 will run out. Scattered config files become one editable tree, with every change
@@ -53,11 +53,11 @@ Claude Code · Codex · Gemini · Antigravity
 
 ## 버그 · 피드백 · Bugs & feedback
 
-버그를 발견했거나 개선 아이디어가 있다면 이슈로 남긴다.<br>
+버그를 발견했거나 개선 아이디어가 있다면 이슈로 남겨주세요.<br>
 Found a bug or have an idea? [Open an issue](https://github.com/Mobig9/ody-releases/issues/new).
 
 ## 이 저장소는 · About this repo
 
-- Ody 앱의 릴리스와 피드백을 위한 공간이다. 앱 소스 코드는 비공개로 관리된다.
+- Ody 앱의 릴리스와 피드백을 위한 공간이예요. 앱 소스 코드는 비공개 입니다.
 - This repository hosts releases, release notes and the issue tracker for the Ody
   desktop app. The app itself is closed-source.
