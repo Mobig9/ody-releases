@@ -8,7 +8,7 @@
 A local control plane for your AI coding tools.
 
 [![Latest release](https://img.shields.io/github/v/release/Mobig9/ody-releases?label=release&color=7c5cff)](https://github.com/Mobig9/ody-releases/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-macOS%20(Apple%20Silicon)-1f1b2e)](#다운로드--download)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-1f1b2e)](#다운로드--download)
 
 [웹사이트 · Website](https://ody.giml.kr) · [문서 · Docs](https://ody.giml.kr/docs) · [다운로드 · Download](https://github.com/Mobig9/ody-releases/releases/latest/download/Ody_aarch64.dmg) · [이슈 · Issues](https://github.com/Mobig9/ody-releases/issues)
 
@@ -18,13 +18,12 @@ A local control plane for your AI coding tools.
 
 ## 다운로드 · Download
 
-**[macOS용 다운로드 (Apple Silicon)](https://github.com/Mobig9/ody-releases/releases/latest/download/Ody_aarch64.dmg)**
+**[macOS용 다운로드 (Apple Silicon)](https://github.com/Mobig9/ody-releases/releases/latest/download/Ody_aarch64.dmg)** · **[Windows용 다운로드 (x64)](https://github.com/Mobig9/ody-releases/releases/latest/download/Ody_x64-setup.exe)**
 
 내려받아서 열면 끝. 가입 없이 무료로 시작해보세요.<br>
 Download, open, done. Start free, no sign-up.
 
 - 전체 버전 목록 · All versions: [Releases](https://github.com/Mobig9/ody-releases/releases)
-- Windows는 준비 중 · Windows is on the way
 
 ## Ody란 · What is Ody
 
@@ -37,12 +36,12 @@ Ody는 이를 한 화면에 모아줍니다.
 | **한도 소진 예측** | 지금 속도라면 언제 한도가 소진되는지 미리 예측할 수 있어요. |
 | **설정 한곳에** | 흩어진 설정 파일을 한 트리에서 편집할 수 있어요. 변경 내역은 되돌릴 수 있어요. |
 | **벤더 중립** | 특정 회사에 치우치지 않고 전부 보여줘요. |
-| **로컬 퍼스트** | 모든 데이터는 내 컴퓨터에만 저장돼요. 클라우드로 전송되지 않아요. |
+| **로컬 퍼스트** | 기록과 설정은 내 컴퓨터에 저장해요. 사용 통계는 모으지 않아요. |
 | **트레이 상주** | 평소에는 트레이에 조용히. 필요할 때만 열어보세요. |
 
 Ody shows usage across every AI coding tool on one screen and forecasts when a limit
 will run out. Scattered config files become one editable tree, with every change
-reversible. Vendor-neutral and local-first: nothing leaves your machine. It sits
+reversible. Vendor-neutral and local-first: your history and config stay on your machine, and Ody collects no usage analytics. It sits
 quietly in your tray until you need it.
 
 자세한 사용법은 [문서](https://ody.giml.kr/docs) 참고 · Full manual in the [docs](https://ody.giml.kr/docs).
